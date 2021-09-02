@@ -1,0 +1,4 @@
+com\example\demo\MailerApplication\service\MailService.class
+com\example\demo\MailerApplication\controller\MailController.class
+com\example\demo\MailerApplication\model\MailUser.class
+com\example\demo\MailerApplication\MailerApplication.class
